@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sumativa1</string>
+    <string name="title_activity_recuperar">RecuperarActivity</string>
+    <string name="title_activity_registrar">RegistrarActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_usuarios_view_model">UsuariosViewModel</string>
+</resources>
